@@ -29,7 +29,7 @@
                 }
                 else
                 {
-                    Console.WriteLine("You guesse it!");
+                    Console.WriteLine("You guessed it!");
                 }
             }
 
